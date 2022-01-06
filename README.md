@@ -31,4 +31,4 @@
 - git branch -D (branch)
 
 ###### back history file
-- git checkou (id commit) -- (file)
+- git checkout (id commit) -- (file)
