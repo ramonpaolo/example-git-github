@@ -1,0 +1,19 @@
+## Comands Git
+
+###### To init the git in project
+- git init
+
+###### To add all files/folders in git(tracker it)
+- git add .
+
+###### to 'finalize' the adictions of file and afirmate tracker
+- git commit -m
+
+###### to show logs of commits
+- git log
+
+###### to show info about one commit
+- git show (id)
+
+###### remove file to untracker it
+- git rm --cached (file)
