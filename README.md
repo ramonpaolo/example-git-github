@@ -17,3 +17,9 @@
 
 ###### remove file to untracker it
 - git rm --cached (file)
+
+###### create a new branch(ramificação)
+- git branch (name branch)
+
+###### switch to other branch
+- git checkout (branch)
