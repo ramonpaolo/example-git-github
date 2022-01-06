@@ -32,3 +32,6 @@
 
 ###### back history file
 - git checkout (id commit) -- (file)
+
+###### recovery file deleted
+- git checkout (id commit oy nothing to recovery the last commit) -- (file)
