@@ -23,3 +23,9 @@
 
 ###### switch to other branch
 - git checkout (branch)
+
+###### merge branchs
+- git merge (branch)
+
+###### delete branch
+- git branch -D (branch)
